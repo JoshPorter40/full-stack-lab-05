@@ -34,9 +34,18 @@
   font-size: 20px;
 }
 .glyphicon-ok {
-  color: #1DA237
+  color: #1DA237;
 }
 
 .glyphicon-remove {
-  color : #CD2626
+  color : #CD2626;
+}
+
+.highlighted {
+background-color: yellow;
+}
+
+#sentence {
+  text-align: left;
+  color: black;
 }
